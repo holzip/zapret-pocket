@@ -1,6 +1,6 @@
 id=zapret
 name=zapret
-version=latest-dev.40
-versionCode=40
+version=build at 03-04-26 17:47:08
+versionCode=030426174708
 author=sevcator
-description=⚡ Bypass censorship via zapret on rooted Android devices
+description=⚡ DPI bypass on Android with additional features (focused for Russian users)

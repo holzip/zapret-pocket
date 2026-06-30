@@ -8,7 +8,8 @@
 
 [Author](https://github.com/sevcator/)
 
-28-06-26 14:23:39
+30-06-26 17:37:13
+- chore: update version, changelog, update.json [skip ci] 248ca7a
 - chore: update version, changelog, update.json [skip ci] 79bcfa2
 - chore: update version, changelog, update.json [skip ci] f651ee9
 - chore: update version, changelog, update.json [skip ci] 689c383
